@@ -1,10 +1,9 @@
-package com.ct.domain;
+package com.ct.pojo;
 
 import java.math.BigDecimal;
 
 import com.ct.exception.OrderException;
 import com.ct.service.OrderListService;
-import com.ct.service.OrderService;
 
 public class OrderList {
 	private static Integer orderlistID;

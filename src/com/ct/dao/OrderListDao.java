@@ -6,7 +6,7 @@ import java.util.List;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
 
-import com.ct.domain.OrderList;
+import com.ct.pojo.OrderList;
 import com.ct.util.JDBCUtil02;
 
 public class OrderListDao {

@@ -1,8 +1,5 @@
 package com.ct.exception;
 
-import java.io.PrintStream;
-import java.io.PrintWriter;
-
 public class BookCartException extends Exception {
 
 	public BookCartException() {

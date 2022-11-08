@@ -3,7 +3,7 @@ package com.ct.service;
 import java.sql.SQLException;
 
 import com.ct.dao.MemberDao;
-import com.ct.domain.Member;
+import com.ct.pojo.Member;
 import com.ct.exception.LoginException;
 
 public class MemberService {

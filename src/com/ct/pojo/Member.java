@@ -1,6 +1,5 @@
-package com.ct.domain;
+package com.ct.pojo;
 
-import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpSession;

@@ -6,7 +6,7 @@ import java.util.List;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
 
-import com.ct.domain.Book;
+import com.ct.pojo.Book;
 import com.ct.util.JDBCUtil02;
 
 public class BookDao {

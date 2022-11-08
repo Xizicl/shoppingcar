@@ -3,10 +3,8 @@ package com.ct.service;
 import java.sql.SQLException;
 import java.util.List;
 
-import com.ct.dao.OrderDao;
 import com.ct.dao.OrderListDao;
-import com.ct.domain.Order;
-import com.ct.domain.OrderList;
+import com.ct.pojo.OrderList;
 import com.ct.exception.OrderException;
 
 public class OrderListService {

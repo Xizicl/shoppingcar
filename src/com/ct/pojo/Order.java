@@ -1,4 +1,4 @@
-package com.ct.domain;
+package com.ct.pojo;
 
 import com.ct.exception.OrderException;
 import com.ct.service.OrderService;

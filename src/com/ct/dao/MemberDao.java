@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 
-import com.ct.domain.Member;
+import com.ct.pojo.Member;
 import com.ct.util.JDBCUtil02;
 
 public class MemberDao{

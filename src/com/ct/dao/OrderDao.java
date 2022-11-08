@@ -7,7 +7,7 @@ import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
 import org.apache.commons.dbutils.handlers.ScalarHandler;
 
-import com.ct.domain.Order;
+import com.ct.pojo.Order;
 import com.ct.util.JDBCUtil02;
 
 public class OrderDao {

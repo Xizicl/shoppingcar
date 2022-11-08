@@ -1,4 +1,4 @@
-package com.ct.domain;
+package com.ct.pojo;
 
 public class CartList {
 	private Integer cartlistID;

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import com.ct.dao.CartListDao;
-import com.ct.domain.CartList;
+import com.ct.pojo.CartList;
 import com.ct.exception.CartListException;
 
 public class CartListService {

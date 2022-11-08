@@ -4,7 +4,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 import com.ct.dao.BookCartDao;
-import com.ct.domain.BookCart;
+import com.ct.pojo.BookCart;
 import com.ct.exception.BookCartException;
 
 public class BookCartService {

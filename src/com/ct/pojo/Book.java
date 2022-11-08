@@ -1,4 +1,4 @@
-package com.ct.domain;
+package com.ct.pojo;
 
 import com.ct.util.UtilDemo;
 
